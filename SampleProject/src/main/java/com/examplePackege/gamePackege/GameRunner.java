@@ -1,8 +1,8 @@
 package com.examplePackege.gamePackege;
 
-public class GameRunner {
-	private SuperContraGame game;
-	public GameRunner(SuperContraGame game) {
+public class GameRunner  {
+	private GamingConsole game;
+	public GameRunner(GamingConsole game) {
 		this.game=game;
 	}
 	public void run() {
